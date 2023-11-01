@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **React, C++, C JavaScript**
+- 💬 Ask me about **React, C++, C, JavaScript**
 
 - 📫 How to reach me **tawabmasood31july@gmail.com**
 
