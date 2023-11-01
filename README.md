@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Tawab</h1>
 <h3 align="center">A Passionate Full Stack Developer from Pakistan</h3>
-<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdultawabjuly" alt="abdultawabjuly" /></a> </p>
 
