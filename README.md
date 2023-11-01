@@ -2,6 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer from Pakistan</h3>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
+
 <p align="left"> <a href="https://twitter.com/mtt3107" target="blank"><img src="https://img.shields.io/twitter/follow/mtt3107?logo=twitter&style=for-the-badge" alt="mtt3107" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
@@ -9,8 +10,6 @@
 - 💬 Ask me about **React, C++, C, JavaScript**
 
 - 📫 How to reach me **tawabmasood31july@gmail.com**
-
-- ⚡ Fun fact **throw exception "None"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
