@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Tawab</h1>
 <h3 align="center">A Passionate Full Stack Developer from Pakistan</h3>
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <a href="https://twitter.com/mtt3107" target="blank"><img src="https://img.shields.io/twitter/follow/mtt3107?logo=twitter&style=for-the-badge" alt="mtt3107" /></a> </p>
 
