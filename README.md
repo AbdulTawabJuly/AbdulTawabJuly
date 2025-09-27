@@ -1,15 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Abdul%20Tawab&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=center&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Abdul%20Tawab&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=center&fontColor=ffffff" alt="Header Banner" />
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdul+Tawab;Full+Stack+Developer+%7C+Pakistan;Building+Amazing+Web+Applications" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-00D4FF?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer" />
-  <img src="https://img.shields.io/badge/Problem%20Solver-9B59B6?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Problem Solver" />
-  <img src="https://img.shields.io/badge/Always%20Building-2ECC71?style=for-the-badge&logo=vercel&logoColor=white" alt="Always Building" />
 </div>
 
 
