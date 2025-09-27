@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/🚀%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white&labelColor=FF6B6B&color=FF6B6B" alt="Developer Badge" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abdul%20Tawab&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=center&fontColor=ffffff" alt="Header Banner" />
 </div>
 
 <div align="center">
