@@ -9,8 +9,6 @@
 </div>
 
 
-<p align="left"> <a href="https://twitter.com/mtt3107" target="blank"><img src="https://img.shields.io/twitter/follow/mtt3107?logo=twitter&style=for-the-badge" alt="mtt3107" /></a> </p>
-
 - 🚀 **Currently vibing with** Full-Stack Web Development & AI Technologies (I'm all about that dev life!)
 
 - 💬 **Hit me up about** React, Next.js, TypeScript, Go, AI/ML (I'm always down to talk tech!)
@@ -89,17 +87,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdultawabjuly&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdultawabjuly&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdultawabjuly&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=abdultawabjuly&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
