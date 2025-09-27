@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://img.shields.io/badge/🚀%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white&labelColor=FF6B6B&color=FF6B6B" alt="Developer Badge" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdul+Tawab;Full+Stack+Developer+%7C+Pakistan;Building+Amazing+Web+Applications" alt="Typing SVG" />
 </div>
 
