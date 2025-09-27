@@ -89,6 +89,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdultawabjuly&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=abdultawabjuly&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
