@@ -92,6 +92,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdultawabjuly&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdultawabjuly&bg_color=010409&color=ffffff&line=00D4FF&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
 ---
 
 <div align="center">
