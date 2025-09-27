@@ -4,8 +4,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-00D4FF?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer" />
-  <img src="https://img.shields.io/badge/Open%20Source-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
-  <img src="https://img.shields.io/badge/Always%20Learning-00D4FF?style=for-the-badge&logo=bookstack&logoColor=white" alt="Always Learning" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-9B59B6?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Problem Solver" />
+  <img src="https://img.shields.io/badge/Always%20Building-2ECC71?style=for-the-badge&logo=vercel&logoColor=white" alt="Always Building" />
 </div>
 
 
