@@ -96,6 +96,15 @@
 
 ---
 
+## My Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulTawabJuly/AbdulTawabJuly/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulTawabJuly/AbdulTawabJuly/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbdulTawabJuly/AbdulTawabJuly/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=abdultawabjuly&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
@@ -103,12 +112,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
-
----
-
-## My Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulTawabJuly/AbdulTawabJuly/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulTawabJuly/AbdulTawabJuly/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbdulTawabJuly/AbdulTawabJuly/output/pacman-contribution-graph.svg">
-</picture>
