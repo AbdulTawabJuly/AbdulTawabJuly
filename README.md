@@ -82,20 +82,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdultawabjuly&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdultawabjuly&bg_color=010409&color=ffffff&line=00D4FF&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
 ## My Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulTawabJuly/AbdulTawabJuly/output/pacman-contribution-graph-dark.svg">
@@ -103,12 +89,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbdulTawabJuly/AbdulTawabJuly/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdultawabjuly&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</div>
