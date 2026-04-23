@@ -54,7 +54,6 @@
 ### **AI & ML**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-00D4FF?style=for-the-badge&logo=openai&logoColor=white)
 
 ### **DevOps & Tools**
